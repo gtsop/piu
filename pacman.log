@@ -1,0 +1,23 @@
+[2020-02-10 21:19] [PACMAN] Running 'pacman -Syyuu'
+[2020-02-10 21:19] [PACMAN] synchronizing package lists
+[2020-02-10 21:19] [PACMAN] Running 'pacman -Syyuu'
+[2020-02-10 21:19] [PACMAN] synchronizing package lists
+[2020-02-10 21:20] [PACMAN] starting full system upgrade
+[2020-02-10 21:41] [PACMAN] Running 'pacman -Syyuu'
+[2020-02-10 21:41] [PACMAN] synchronizing package lists
+[2020-02-10 21:42] [PACMAN] starting full system upgrade
+[2020-02-10 21:49] [PACMAN] Running 'pacman -S git'
+[2020-02-10 21:50] [PACMAN] Running 'pacman -S git'
+[2020-02-10 21:50] [PACMAN] Running 'pacman -S git'
+[2020-02-10 21:51] [PACMAN] Running 'pacman -Sc'
+[2020-02-10 21:51] [PACMAN] Running 'pacman -S git'
+[2020-02-10 21:52] [ALPM] transaction started
+[2020-02-10 21:52] [ALPM] installed perl-error (0.17029-1)
+[2020-02-10 21:52] [ALPM] installed perl-timedate (2.31-1)
+[2020-02-10 21:52] [ALPM] installed perl-mailtools (2.21-2)
+[2020-02-10 21:52] [ALPM] installed git (2.25.0-1)
+[2020-02-10 21:52] [ALPM] transaction completed
+[2020-02-10 21:52] [ALPM] running '20-systemd-sysusers.hook'...
+[2020-02-10 21:52] [ALPM] running 'detect-old-perl-modules.hook'...
+[2020-02-10 21:52] [ALPM] running 'systemd-daemon-reload.hook'...
+[2020-02-10 21:52] [ALPM] running 'systemd-update.hook'...
